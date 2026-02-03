@@ -1,0 +1,4 @@
+# ワークスペース内の一時ドライブアップロード/ダウンロードフォルダを無視
+# (自動生成 — 必要ならローカルだけにするために `.git/info/exclude` を使ってください)
+.tmp.driveupload/
+.tmp.drivedownload/
